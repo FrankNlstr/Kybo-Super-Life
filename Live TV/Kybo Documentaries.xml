@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<title>KYBO 2.0.8</TITLE>
+
+
+
+
+<item>
+<title><COLOR aqua>***Documentaries***</COLOR></title>
+</item>
+
+rtmp://37.48.118.29/live?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDE1IDg6NDM6MzYgQU0maGFzaF92YWx1ZT01VE5HTUNhWFlMcDVJc2lmWE5tT1ZBPT0mdmFsaWRtaW51dGVzPTIw/discoverys.stream
+
+
+<item>
+<title>Discovery Channel</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Discovery%20Channel%20UK.png</thumbnail>
+<fanart>http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245116-720-540.jpg</fanart>
+</item>
+
+<item>
+<title>Discovery Science</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Discovery%20Science%20UK.png</thumbnail>
+<fanart>http://ehabari.com/wp-content/uploads/2014/09/discovery-responds-to-mythBusters-petition-to-bring-back-kari-byron.jpg</fanart>
+</item>
+
+<item>
+<title>History Channel</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/History%20Channel%20UK.png</thumbnail>
+<fanart>http://www.andysowards.com/blog/assets/Afro_Samurai_by_crazy_fox_06.png?b91b38</fanart>
+</item>
+
+<item>
+<title>Nat Geo Wild</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Nat%20Geo%20Wild%20UK.png</thumbnail>
+<fanart>http://fc05.deviantart.net/fs71/f/2014/060/8/4/nat_geo_wild_by_tfg00-d78gpj1.png</fanart>
+</item>
+
+<item>
+<title>National Geographic Channel</title>
+<link>http://188.227.86.4:4022/udp/239.77.0.41:1234</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/National%20Geographic%20Channel%20UK.png</thumbnail>
+<fanart>http://users3.ml.mindenkilapja.hu/users/youtubedolgok/uploads/natgeo.jpg</fanart>
+</item>
+
+<item>
+<title>Crime and Investigation</title>
+<link>http://50.7.69.186:1935/edge/_definst_/yjma618cibkqxeo/chunklist.m3u8?wowzasessionid=1420168729</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Crime%20&%20Investigation%20UK.png</thumbnail>
+<fanart>http://images4.fanpop.com/image/photos/19700000/Crime-investigation-csi-ny-19746771-500-365.jpg</fanart>
+</item>
+
+<item>
+<title>Animal Planet</title>
+<link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Animal%20Planet%20UK.png</thumbnail>
+<fanart>http://victoriafalls24.com/wp-content/uploads/2013/08/Predators-Playground.jpg</fanart>
+</item>
+
+<item>
+<title>Travel Channel</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Travel%20Channel%20UK.png</thumbnail>
+<fanart>http://cdn0.dailydot.com/uploaded/images/original/2012/11/20/Screen_Shot_2012-11-20_at_4.50.30_PM.png</fanart>
+</item>

@@ -1,0 +1,45 @@
+?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<title>KYBO 2.0.8</TITLE>
+
+
+
+
+<item>
+<title><COLOR aqua>***World News***</COLOR></title>
+</item>
+
+
+
+
+<item>
+<title>Sky News UK</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20News%20UK.png</thumbnail>
+<fanart>http://www.standard.co.uk/incoming/article9097000.ece/alternates/w620/deadlineday4.jpg</fanart>
+</item>
+
+<item>
+<title>BBC News UK</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8?Vd?u#bt!25</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/BBC%20News%20UK.png</thumbnail>
+<fanart>http://news.bbc.co.uk/media/images/47800000/jpg/_47800753_safrica_afp766.jpg</fanart>
+</item>
+
+<item>
+<title>Al Jazeera News</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Al%20Jazeera.png</thumbnail>
+<fanart>http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2015/1/29/01630e22e0f3438fb5c23cccd2ea14fa_18.jpg</fanart>
+</item>
+
+<item>
+<title>CNBC UK</title>
+<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_828.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/CNBC%20UK.png</thumbnail>
+<fanart>http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/11/10/102169105-458719612.1910x1000.jpg</fanart>
+</item>
+
+

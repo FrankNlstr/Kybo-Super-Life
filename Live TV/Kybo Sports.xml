@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<title>KYBO 2.0.8</TITLE>
+
+
+
+
+<item>
+<title><COLOR aqua>***Sports***</COLOR></title>
+</item>
+
+
+
+
+<item>
+<title>Sky Sports News</title>
+<link>rtmp://31.220.0.195:80/live/ playpath=snc token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13   pageUrl=http://reytv.co/</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20News%20UK.png</thumbnail>
+<fanart>http://i.dailymail.co.uk/i/pix/2011/03/30/article-1371345-00DD045C00000578-684_468x308.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 1</title>
+<link>rtmp://46.246.29.133:1935/stream/ playpath=6vPuiWkmnW.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/magellan timeout=10</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%201%20UK.png</thumbnail>
+<fanart>http://static.guim.co.uk/sys-images/Guardian/Pix/GU_front_gifs/2013/5/10/1368215391695/British-No-1-Heather-Wats-011.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 2</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%202%20UK.png</thumbnail>
+<fanart>http://static.guim.co.uk/sys-images/Guardian/About/General/2013/11/20/1384979967067/Manchester-United-v-Arsen-010.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 3</title>
+<link>rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH timeout=10</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%203%20UK.png</thumbnail>
+<fanart>http://i.guim.co.uk/static/w-460/h--/q-95/sys-images/Sport/Pix/pictures/2011/12/7/1323285434111/Sky-Sports-Formula-1-Team-007.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 4</title>
+<link>rtmp://80.82.64.140:443/liverepeater playpath=16 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH timeout=10</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%204%20UK.png</thumbnail>
+<fanart>http://www.cambridge-news.co.uk/images/localworld/ugc-images/276453/Article/images/25756016/9238255-large.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports 5</title>
+<link>rtmp://31.7.56.254:1935/stream/ playpath=8QaZfLVfC9.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/magellan timeout=10</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%205%20UK.png</thumbnail>
+<fanart>http://fc09.deviantart.net/fs70/f/2012/009/6/3/golf_squad___battlefield_funart_by_zerrnichter-d4lvm3u.jpg</fanart>
+</item>
+
+<item>
+<title>Sky Sports F1</title>
+<link>rtmp://80.82.64.140:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20F1%20UK.png</thumbnail>
+<fanart>http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2012/3/12/1331562991242/Sky-Sports-F1-002.jpg</fanart>
+</item>
+
+<item>
+<title>SKY POKER</title>
+<link>rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf live=1 pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas=FAL SE</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20UK%20Poker.png</thumbnail>
+<fanart>http://th07.deviantart.net/fs71/PRE/i/2012/058/a/9/almost_got_em_by_gnzg-d4p5891.png</fanart>
+</item>
+
+<item>
+<title>BT Sport 1</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/BT%20Sport%201%20UK.png</thumbnail>
+<fanart>http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2013/8/17/1376765014687/Bt-sport-studio-006.jpg</fanart>
+</item>
+
+<item>
+<title>BT Sport 2</title>
+<link>rtmp://31.220.0.195:80/live/ playpath=btx22 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/BT%20Sport%202%20UK.png</thumbnail>
+<fanart>http://www.standard.co.uk/incoming/article9799682.ece/alternates/w460/RioBT.jpg</fanart>
+</item>
+
+<item>
+<title>UFC Next</title>
+<ftv>713</ftv>
+<thumbnail>http://static.filmon.com/couch/channels/713/big_logo.png</thumbnail>
+<fanart>http://www.tvmix.com/wp-content/uploads/CubSwansonMMAFighting10-2-12_crop_exact-600x325.jpg</fanart>
+</item>
+
+<item>
+<title>FightBox</title>
+<ftv>1621</ftv>
+<thumbnail>http://upload.wikimedia.org/wikipedia/de/archive/9/92/20131020125133!Fightbox_Logo.png</thumbnail>
+<fanart>http://www.goodwp.com/large/201210//24626.jpg</fanart>
+</item>
+
+<item>
+<title>X-Treme Sports</title>
+<ftv>326</ftv>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/1/17/X-Treme_Sports_Logo.svg/1280px-X-Treme_Sports_Logo.svg.png</thumbnail>
+<fanart>https://pbs.twimg.com/profile_images/378800000443188612/1843be1641aac7f3d37be098974eda46.jpeg</fanart>
+</item>
+
+<item>
+<title>WW Extreme</title>
+<ftv>394</ftv>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20140408192539/logopedia/images/b/bf/WWE_ExtremeRules_2014_Logo.jpg</thumbnail>
+<fanart>http://pl.wwe.com/binaries/content/gallery/wwe/news/2013%5B2%5D/05/02/er13_photo_155crop.jpg</fanart>
+</item>
+
+<item>
+<title>NWA Wrestling</title>
+<ftv>373</ftv>
+<thumbnail>http://cache.onlineworldofwrestling.com/wp-content/uploads/2014/09/logo-nwa.jpg</thumbnail>
+<fanart>http://www.comicpalooza.com/wp-content/gallery/nwa-images/nwa2.jpg</fanart>
+</item>
+
+<item>
+<title>Eurosport 1</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Eurosport%201%20UK.png</thumbnail>
+<fanart>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/5/8/1368040118341/Jake-Humphrey--They-re-ta-008.jpg</fanart>
+</item>
+
+<item>
+<title>Eurosport 2</title>
+<link>rtmp://80.82.64.140:443/liverepeater/ playpath=21 token=#atd%#$ZH swfUrl=http://popeoftheplayers.pw/atdedead.swf live=1 timeout=13 pageUrl=http://popeoftheplayers.eu/</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Eurosport%202%20UK.png</thumbnail>
+<fanart>http://static.guim.co.uk/sys-images/Media/Pix/pictures/2013/6/27/1372331742480/The-Irish-Open-Shane-Lowr-008.jpg</fanart>
+</item>
+
+<item>
+<title>At The Races</title>
+<link>rtmp://31.220.0.195:80/live/ playpath=atracessa token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/At%20The%20Races%20UK.png</thumbnail>
+<fanart>http://images6.fanpop.com/image/photos/32900000/Paris-Jackson-Race-ParisPic-paris-jackson-32982763-2880-1649.jpg</fanart>
+</item>
+
+<item>
+<title>Raceing UK</title>
+<link>rtmp://rrbalancer.broadcast.tneg.de:1935/pw/ruk/ playpath=ruk swfUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.swf live=1 pageUrl=http://pferdewetten.broadcast.tneg.de/jwplayer/player.php?type=live&stream=ruk1&token=ccf6c54e62bc5bd667661d5af5d61e8664c75b11</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Racing%20UK.png</thumbnail>
+<fanart>http://www.racinguk.com/images/course_photos/Ascot_Racecourse.jpg</fanart>
+</item>
+
+<item>
+<title>MUTV</title>
+<link></link>
+<thumbnail>http://www.labombonera.com.ar/media/galeria/121/0/1/0/2/n_boca_juniors_manchester_united-2010.jpg</thumbnail>
+<fanart>http://i.huffpost.com/gen/1174108/thumbs/o-MANCHESTER-UNITED-NIKE-KIT-570.jpg?6</fanart>
+</item>
+
+<item>
+<title>LFC</title>
+<link>rtmp://31.7.56.254:1935/stream/ playpath=0VmU1bpSNQ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=other&amp;width=600&amp;height=460&amp;st=14r3v56564k5k4q305z4n244z294u2u28424w2u2w2t223f4&amp;adx=&amp;stream=64v2e4k5d464u2u2e464w2j5u2j543n23465j4t3p294o4550535t22433y234y2x2p2t274y2z32363y3p285u5657464j455w4i2k4j4v5k474n33574a414p4h4z33456t226c4n424r2p2z294b434h5233314y2k5b4a4j5u24494j5s244v264338444d4y2z264b494m56434t2y3s2p224r2p2o2&amp;sooor=MQ==&amp;str=is&amp;ok=&amp;cat=1&amp;link=1&amp;idom=www.ifeed2all.eu token=%ZZri(nKa@#Z</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Liverpool%20TV%20UK.png</thumbnail>
+<fanart>http://fc07.deviantart.net/fs70/i/2012/213/0/0/lfc_logo_2012_13_fixture_desktop_by_kitster29-d59fz0h.jpg</fanart>
+</item>
+
+<item>
+<title>Chelsea TV</title>
+<link></link>
+<thumbnail>https://yt3.ggpht.com/-_-grPaix4ZQ/AAAAAAAAAAI/AAAAAAAAAAA/kCxr3PPmMu8/s900-c-k-no/photo.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-A0YPC4w7BuE/Ta9b8ghg6BI/AAAAAAAACtw/nVtJdP5xbKo/s1600/Chelsea%2BWallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>BoxNation</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Fight%20Sports.png</thumbnail>
+<fanart>http://i.imgur.com/1RLS7cK.gif</fanart>
+</item>
+
+<item>
+<title>ESPN</title>
+<link></link>
+<thumbnail>http://static.squarespace.com/static/50c6bb0ee4b053582675dcd4/50cb6951e4b0e32b244d5fc1/50cb6954e4b04629e00075e2/1355508054469/espn_logo.jpg</thumbnail>
+<fanart>https://ionetheurbandaily.files.wordpress.com/2013/07/diana-taurasi-2010-espn-magazine-body-issue-picture_original.jpg?w=570</fanart>
+</item>
+
+<item>
+<title>ESPN 2</title>
+<link></link>
+<sublink></sublink>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20121007054435/disney/images/d/d9/2000px-ESPN2_logo.png</thumbnail>
+<fanart>http://cdn0.dailydot.com/cache/06/a1/06a1eaaf6142df040121eea06ef0b1b0.jpg</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+

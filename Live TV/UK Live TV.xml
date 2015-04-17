@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+
+<info>
+<message>[COLOR red]Kybo XML[/COLOR]</message>
+<thumbnail></thumbnail>
+</info>
+
+
+
+
+
+
+<channels>
+
+<channel>
+    <name>[COLOR aqua]UK Live Tv [/COLOR]</name>
+<thumbnail>http://ak8.picdn.net/shutterstock/videos/1202716/preview/stock-footage-british-flag-waving-on-sun-seamless-loop.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Kybo/Fire-Life/master/Live%20TV/Kybo%20Live%20TV.xml</externallink>
+<fanart>http://www.spotted.tv/media/Freeview-UK-TV1.jpg</fanart>
+<info>Television (TV) is a telecommunication medium that is used for transmitting and receiving moving images and sound. Television can transmit images that are monochrome (black-and-white), in color, or in three dimensions. Television may also refer specifically to a television set, television program, or television transmission.
+First commercially available in a very crude form, on an experimental basis, in the late 1920s, then popularized in a greatly improved form shortly after World War II, the television set has become commonplace in homes, businesses, and institutions, particularly as a vehicle for entertainment, advertising and news. During the 1950s, television became the primary medium for molding public opinion.[1] In the mid-1960s, color broadcasting became popular in the US and began in most other developed countries. The availability of storage media such as VHS (1976), DVDs (1997), and high-definition Blu-ray Discs (2006) enabled viewers to use the television set to watch recorded material such as movies and broadcast material. Towards the end of the first decade of the 2000s, the transition to digital television greatly increased its popularity. Since 2010, with the arrival of smart television, Internet television has seen the rise of television programming available via the Internet through services such as Netflix, iPlayer, and Hulu, for example.</info>
+</channel>
+</channels>
+
+<channels>
+
+<channel>
+    <name>[COLOR aqua]Cartoons [/COLOR]</name>
+<thumbnail>http://cdn7.staztic.com/app/a/2510/2510095/amazing-cartoon-hd-wallpaper-2-0-s-307x512.jpg</thumbnail>   
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Kybo/Fire-Life/master/Live%20TV/KyboCartoon.xml</externallink>
+<fanart>https://dadwithtwokids.files.wordpress.com/2013/03/classic-cartoons.jpg</fanart>
+<info>A cartoon is a form of two-dimensional illustrated visual art. While the specific definition has changed over time, modern usage refers to a typically non-realistic or semi-realistic drawing or painting intended for satire, caricature, or humor, or to the artistic style of such works. An artist who creates cartoons is called a cartoonist.
+The concept originated in the Middle Ages and first described a preparatory drawing for a piece of art, such as a painting, fresco, tapestry, or stained glass window. In the 19th century, it came to refer to humorous illustrations in magazines and newspapers, and in the early 20th century and onward it referred to comic strips and animated films</info>
+</channel>
+</channels>
+
+channels>
+
+<channel>
+    <name>[COLOR aqua]Documentaries [/COLOR]</name>
+<thumbnail>http://images.tenplay.com.au/~/media/TV%20Shows/Documentaries/General/Documentaries_Logo_500x281.jpg</thumbnail>    
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Kybo/Fire-Life/master/Live%20TV/Kybo%20Documentaries.xml</externallink>
+<fanart>http://themindunleashed.org/wp-content/uploads/2014/03/mind-expaning.jpg</fanart>
+<info>A documentary film is a film story concerning factual topics (i.e. someone or something). These films have a variety of aims, to record important events and ideas; to inform viewers; to convey opinions and to create public interest. A number of common techniques or conventions are used in documentaries to achieve these aims.</info>
+</channel>
+</channels>
+
+channels>
+
+<channel>
+    <name>[COLOR aqua]World News [/COLOR]</name>
+<thumbnail>http://i2.mirror.co.uk/incoming/article84558.ece/alternates/s615/news-generic-image-1-87950881.jpg</thumbnail>    
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Kybo/Fire-Life/master/Live%20TV/Kybo%20News.xml</externallink>
+<fanart>http://staging.mediawales.co.uk/_files/images//jun_10/mw__1276511479_News_Image.jpg</fanart>
+<info>The New World Information and Communication Order (NWICO or NWIO) is a term that was coined in a debate over media representations of the developing world in UNESCO in the late 1970s and early 1980s. The term was widely used by the MacBride Commission, a UNESCO panel chaired by Nobel Peace Prize laureate Sean MacBride, which was charged with creation of a set of recommendations to make global media representation more equitable. The MacBride Commission produced a report titled "Many Voices, One World", which outlined the main philosophical points of the New World Information Communication Order.</info>
+</channel>
+</channels>
+
+channels>
+
+<channel>
+    <name>[COLOR aqua]Music [/COLOR]</name>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/originals/3a/85/0f/3a850fa5f811bd1a4401d43a836469ac.jpg</thumbnail>    
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Kybo/Fire-Life/master/Live%20TV/Kybo%20Music.xml</externallink>
+<fanart>http://freehdpic.com/wp-content/uploads/2013/12/Girl-hearing-Music-Wallpaper.jpg</fanart>
+<info>Music is an art form whose medium is sound. Its common elements are pitch (which governs melody and harmony), rhythm (and its associated concepts tempo, meter, and articulation), dynamics, and the sonic qualities of timbre and texture. The word derives from Greek µ??s??? (mousike; "art of the Muses").[1] In its most general form the activities describing music as an art form include the production of works of music, the criticism of music, the study of the history of music, and the aesthetic dissemination of music.</info>
+</channel>
+</channels>
+
+<channels>
+
+<channel>
+    <name>[COLOR aqua]Sports [/COLOR]</name>
+<thumbnail>https://discuss.fm/images/max_topic_images/sports.jpg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Kybo/Fire-Life/master/Live%20TV/Kybo%20Sports.xml</externallink>
+<fanart>http://www.uclan.ac.uk/courses/assets/media/sports_marketing_and_business_management.jpg</fanart>
+<info>Sport (or sports) is all forms of usually competitive physical activity which,[1] through casual or organised participation, aim to use, maintain or improve physical ability and skills while providing entertainment to participants, and in some cases, spectators.[2] Hundreds of sports exist, from those requiring only two participants, through to those with hundreds of simultaneous participants, either in teams or competing as individuals.
+Sport is generally recognised as activities which are based in physical athleticism or physical dexterity, with the largest major competitions such as the Olympic Games admitting only sports meeting this definition,[3] and other organisations such as the Council of Europe using definitions precluding activities without a physical element from classification as sports.[2] However, a number of competitive, but non-physical, activities claim recognition as mind sports</info>
+</channel>
+</channels>

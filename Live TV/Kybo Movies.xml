@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<title>KYBO 2.0.8</TITLE>
+
+
+
+
+<item>
+<title><COLOR aqua>***Movie's***</COLOR></title>
+</item>
+
+
+
+
+<item>
+<title>sky Movie's action</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Movies%20Action%20&%20Adventure%20UK.png</thumbnail>
+<fanart>http://www.elysium-uk.com/site/wp-content/uploads/2012/08/The_Dark_Knight_Rises_by_messenjahmatt.jpeg</fanart>
+</item>
+
+<item>
+<title>sky Movie's disney</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Movies%20Disney%20UK.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs70/i/2014/007/7/4/anna_and_elsa__frozen_fanart__by_sweetkairi1992-d718gng.jpg</fanart>
+</item>
+
+<item>
+<title>sky Movie's drama</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Movies%20Drama%20&%20Romance%20UK.png</thumbnail>
+<fanart>https://fanart.tv/fanart/movies/64690/moviebackground/drive-51110669d8b76.jpg</fanart>
+</item>
+
+<item>
+<title>sky Movie's family</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Movies%20Family%20UK.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs70/f/2013/055/c/4/jla__justice_league_avengers_3_by_randomfilmsonline-d5w57ya.jpg</fanart>
+</item>
+
+<item>
+<title>sky Movie's premiere</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Movies%20Premiere%20UK.png</thumbnail>
+<fanart>http://www.joblo.com/images_arrownews/manborgheader.jpg</fanart>
+</item>
+
+<item>
+<title>sky Movie's comedy </title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Movies%20Comedy%20UK.png</thumbnail>
+<fanart>http://i2.mirror.co.uk/incoming/article2277122.ece/alternates/s615/Billy-Connolly.jpg</fanart>
+</item>
+
+<item>
+<title>FILM ZONE HD</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Film%20Zone%20USA.png</thumbnail>
+<fanart>http://th09.deviantart.net/fs70/PRE/i/2013/077/7/4/megan_fox_transformers_finished_wallpaper_by_69ingchipmunkzz-d5xcq6x.jpg</fanart>
+</item>
+
+<item>
+<title>Cinestar</title>
+<link>http://83.139.104.112/Content/HLS/Live/Channel(cinestar_tv)/Stream(03)/index.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/CineStar%20TV.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-fwflxryAZ60/Th14PuzD-JI/AAAAAAAAAfg/NHI0bVYmln4/s400/transformers_movie_face_off_clash_city-wallpaper-2560x1440.jpg</fanart>
+</item>
+
+<item>
+<title>Cinestar Action</title>
+<link>http://83.139.104.112/Content/HLS/Live/Channel(CINESTAR_ACTION_AND_THRILLER)/Stream(03)/index.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/CineStar%20Action%20&%20Thriller.png</thumbnail>
+<fanart>http://th01.deviantart.net/fs71/200H/f/2010/094/f/0/Got_Ya__Fox_by_Skia.jpg</fanart>
+</item>
+
+<item>
+<title>Cinestar Premiere</title>
+<link>http://83.139.104.112/Content/HLS/Live/Channel(cinestar_premiere_1)/Stream(03)/index.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/CineStar%20Premiere.png</thumbnail>
+<fanart>http://fc04.deviantart.net/fs70/i/2014/108/3/e/warm_facade__frozen_heart_by_mistrel_fox-d7exu74.png</fanart>
+</item>
+
+<item>
+<title>Cinestar Premiere 2</title>
+<link>http://83.139.104.112/Content/HLS/Live/Channel(cinestar_premiere_2)/Stream(03)/index.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/CineStar%20Premiere%202.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-TPQAkn7WarY/VAMMFzF-NgI/AAAAAAAAJVU/zfyWJZTQ8LU/s1600/268628-priyanka-chopra-700.jpg</fanart>
+</item>
+
+
+<item>
+<title>Pink Action</title>
+<link>http://str108.setplex.net/fastv_2psh/PinkActionglobal_rly_greece_109/balkansatnet.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Pink%20Action%201.png</thumbnail>
+<fanart>http://fc03.deviantart.net/fs70/f/2013/198/6/6/sexy_wonder_woman_wallpaper_by_ethaclane-d6dyglo.jpg</fanart>
+</item>
+
+
+<item>
+<title>Pink Action 2</title>
+<link>http://str108.setplex.net/fastv_2psh/PinkAction2global_rly_greece_103/balkansatnet.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Pink%20Action%202.png</thumbnail>
+<fanart>http://fc02.deviantart.net/fs70/i/2014/034/a/b/maleficent_by_gingerannelondon-d744xmh.jpg</fanart>
+</item>
+
+<item>
+<title>PINK ACTION 3</title>
+<link>http://str108.setplex.net/fastv_2psh/PinkAction3global_rly_greece_103/balkansatnet.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Pink%20Action%203.png</thumbnail>
+<fanart>http://cdn.collider.com/wp-content/uploads/dark-knight-rises-catwoman-anne-hathaway.jpg</fanart>
+</item>
+
+<item>
+<title>Pink Movies 2</title>
+<link>http://str108.setplex.net/fastv_2psh/PinkMovies2global_rly_greece_109/balkansatnet.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Pink%20Movies%202.png</thumbnail>
+<fanart>http://www.wallpapersfolder.com/user-content/uploads/wall/o/12/300_movie_wallpaper.jpg</fanart>
+</item>
+
+<item>
+<title>Pink Movies 3</title>
+<link>http://str108.setplex.net/fastv_2psh/PinkMovies3global_rly_greece_109/balkansatnet.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Pink%20Movies%203.png</thumbnail>
+<fanart>http://i1.cdnds.net/12/23/618x428/movies_emma_stone_andrew_garfield_2012.jpg</fanart>
+</item>
+
+<item>
+<title>Pink Horror</title>
+<link>http://str108.setplex.net/fastv_2psh/PinkHorrorglobal_rly_greece_103/balkansatnet.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Pink%20Horror.png</thumbnail>
+<fanart>http://cdn.collider.com/wp-content/uploads/ltd-art-press-start-patrick-ballesteros-4-items-or-less.jpg</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+
+
+

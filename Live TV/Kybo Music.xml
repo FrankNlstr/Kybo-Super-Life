@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<title>KYBO 2.0.8</TITLE>
+
+
+
+
+<item>
+<title><COLOR aqua>***Music***</COLOR></title>
+</item>
+
+
+
+
+<item>
+<title>MTV Music</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/MTV%20Music%20UK.png</thumbnail>
+<fanart>http://images5.fanpop.com/image/photos/31500000/Cyrus-mtv-31597960-560-384.jpg</fanart>
+</item>
+
+<item>
+<title>MTV HITS</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/MTV%20Hits.png</thumbnail>
+<fanart>http://www.filmibeat.com/img/2014/11/06-david-guetta.jpg</fanart>
+</item>
+
+<item>
+<title>MTV ROCKS</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?b?b*t$</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/MTV%20Rocks.png</thumbnail>
+<fanart>http://www.mtviggy.com/wp-content/uploads/2014/08/Brooke_Candy1.jpg</fanart>
+</item>
+
+<item>
+<title>MTV DANCE</title>
+<link>http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/MTV%20Dance.png</thumbnail>
+<fanart>http://i4.dailyrecord.co.uk/incoming/article4192942.ece/alternates/s615/celebs-nicki-minaj.png</fanart>
+</item>
+
+<item>
+<title>VH1</title>
+<link>http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/VH1.png</thumbnail>
+<fanart>http://blog.irocke.com/wp-content/uploads/2015/01/EdSheeran_ATLREC_ArtistHeader1900x700v3.jpg</fanart>
+</item>
+
+<item>
+<title>4Music</title>
+<link>http://csm-e-usc1-9.cds1.yospace.com/csm/live/86550614.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/4Music%20UK.png</thumbnail>
+<fanart>http://i.ytimg.com/vi/eDKL3iqTRCs/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>VIVA TV</title>
+<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/VIVA%20UK.png</thumbnail>
+<fanart>http://www.getintothis.co.uk/wp-content/uploads/2013/12/daft-punk-630.jpg</fanart>
+</item>
+
+<item>
+<title>Now That's Music</title>
+<link>http://goo.gl/cBEXmV</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Now%20TV.png</thumbnail>
+<fanart>http://static.guim.co.uk/sys-images/Observer/Columnist/Columnists/2014/11/14/1416004016804/Taylor-Swift-010.jpg</fanart>
+</item>
+
+<item>
+<title>SMASH HITS</title>
+<link>http://goo.gl/7KfTxb</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Smash%20Hits!%20UK.png</thumbnail>
+<fanart>http://str.your-pictionary.com/2015/01/30/image-gallary-5-beautiful-cool-wallpaper-designs-for-girls-b-o-ibackgroundz.com.jpg</fanart>
+</item>
+
+<item>
+<title>HEAT</title>
+<link>http://goo.gl/wKIC0B</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Heat%20TV.png</thumbnail>
+<fanart>http://www.wallpaperhi.com/thumbnails/detail/20120717/women%20music%20deviantart%20high%20definition%20headphones%20girl%20rave%20rainbows%20gamers%20sakimichan%20sopa%20samikich_www.wallpaperhi.com_18.jpg</fanart>
+</item>
+
+<item>
+<title>The Box</title>
+<link>http://goo.gl/MCBwlo</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/The%20Box%20UK.png</thumbnail>
+<fanart>http://wallpaperswa.com/thumbnails/detail/20120801/light%20headphones%20music%20headphones%20girl%20lines%20dj%20girls%20colors%201920x1200%20wallpaper_wallpaperswa.com_88.jpg</fanart>
+</item>
+
+<item>
+<title>KERRANG</title>
+<link>http://csm-e.cds1.yospace.com/csm/live/86561794.m3u8</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Kerrang%20!.png</thumbnail>
+<fanart>https://a3-images.myspacecdn.com/images02/61/b75cdc587c854b2387f05826e79d4bc7/300x300.jpg</fanart>
+</item>
+
+<item>
+<title>1HD</title>
+<link>rtmp://109.239.142.62/live/livestream3</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/1TV.png</thumbnail>
+<fanart>http://www.mjworld.net/wp-content/uploads/mj-show.jpg</fanart>
+</item>
+
+<item>
+<title>Clubland</title>
+<link>http://goo.gl/O4u5oo
+</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Clubland%20UK.png</thumbnail>
+<fanart>http://www.allworlddance.com/wp-content/uploads/2014/01/girls-generation-i-got-a-boy-music-video-1280x768.jpg</fanart>
+</item>
+
+<item>
+<title>gotica TV</title>
+<link>rtmp://149.11.34.6:1935/live/gotica.stream</link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Go%20TV.png</thumbnail>
+<fanart>http://images5.fanpop.com/image/photos/27000000/Amy-Lee-Fan-art-evanescence-27039833-300-225.jpg</fanart>
+
+

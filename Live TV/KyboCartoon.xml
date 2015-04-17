@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<title>KYBO 2.0.8</TITLE>
+
+
+
+
+<item>
+<title><COLOR aqua>***Cartoon***</COLOR></title>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>cbeebies</title>
+<ftv>103</ftv>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/CBeebies%20BBC.png</thumbnail>
+<fanart>http://hub.tv-ark.org.uk/images/bbcother/images/cbbc/cbeebies_xmasid_2006b.jpg</fanart>
+</item>
+
+<item>
+<title>CBBC</title>
+<ftv>113</ftv>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/CBBC.png</thumbnail>
+<fanart>http://cdn.funkidslive.com/wp-content/uploads/2014/03/MOshi.jpg</fanart>
+</item>
+
+<item>
+<title>Disney JR</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Disney%20Jr.UK.png</thumbnail>
+<fanart>http://cdnvideo.dolimg.com/cdn_assets/2f16db8eccec17da8226d0d6e947709d10e8b30c.jpg</fanart>
+</item>
+
+<item>
+<title>Disney XD</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Disney%20XD%20UK.png</thumbnail>
+<fanart>http://images2.fanpop.com/images/photos/5200000/Disney-XD-aaron-stone-5232955-1024-768.jpg</fanart>
+</item>
+
+<item>
+<title>Disney Channel</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Disney%20Channel%20UK.png</thumbnail>
+<fanart>http://www.livenewschat.eu/wp-content/uploads/2013/04/disney-channel2.jpg</fanart>
+</item>
+
+<item>
+<title>Cartoon Network</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Cartoon%20Network%20UK.png</thumbnail>
+<fanart>http://loyalkng.com/wp-content/uploads/2012/10/cn20th-cartoon-network-sakikoamana-adventure-time-power-puff-girls-samurai-jack-dexter-Sakiko-Yamada.jpg</fanart>
+</item>
+
+<item>
+<title>Nickelodeon</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Nickelodeon%20UK.png</thumbnail>
+<fanart>http://fc08.deviantart.net/fs70/f/2011/142/8/3/classic_nickelodeon_by_movieguyhollywood-d3h0527.jpg</fanart>
+</item>
+
+<item>
+<title>Nick Toon</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Nicktoons%20UK.png</thumbnail>
+<fanart>http://img1.ak.crunchyroll.com/i/spire1/38a1f959a978a95412c82c6812aa02c51362114787_full.jpg</fanart>
+</item>
+
+<item>
+<title>Boomerang HD</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Boomerang%20UK.png</thumbnail>
+<fanart>http://composeyourselfmag.com/wp-content/uploads/2014/06/koopakids.jpg</fanart>
+</item>
+
+<item>
+<title>Tiny Pop</title>
+<link>http://212.70.155.243:40665/udp/237.100.0.182:4000</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6e/Tiny_Pop_2011_logo.png</thumbnail>
+<fanart>http://www2.cscmediagroup.com/content/Images/ArticleImages/PromoImage/354.jpg</fanart>
+</item>
+
+<item>
+<title>JIM JAM</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/JimJam.png</thumbnail>
+<fanart>http://miastodzieci.pl/images/stories/new/127633Jim-Jam-baner1.jpg</fanart>
+</item>
+
+<item>
+<title>BABY TV</title>
+<link></link>
+<thumbnail>http://epg.serbianforum.org/logo_znaci/Baby%20TV.png</thumbnail>
+<fanart>http://payload149.cargocollective.com/1/4/136107/5282659/1_1024.jpg</fanart>
+</item>
+
+
+
+
