@@ -23,21 +23,21 @@
 
 <item>
 <title>Sky Sports 1</title>
-<link>rtmp://46.246.29.133:1935/stream/ playpath=6vPuiWkmnW.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/magellan timeout=10</link>
+<link>rtmp://93.158.217.202:80/live/ playpath=s1111132 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%201%20UK.png</thumbnail>
 <fanart>http://static.guim.co.uk/sys-images/Guardian/Pix/GU_front_gifs/2013/5/10/1368215391695/British-No-1-Heather-Wats-011.jpg</fanart>
 </item>
 
 <item>
 <title>Sky Sports 2</title>
-<link></link>
+<link>rtmp://93.158.217.202:80/live/ playpath=s2r token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%202%20UK.png</thumbnail>
 <fanart>http://static.guim.co.uk/sys-images/Guardian/About/General/2013/11/20/1384979967067/Manchester-United-v-Arsen-010.jpg</fanart>
 </item>
 
 <item>
 <title>Sky Sports 3</title>
-<link>rtmp://80.82.64.140:443/liverepeater playpath=10 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH timeout=10</link>
+<link>rtmp://109.123.70.38:80/live/ playpath=s3c token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%203%20UK.png</thumbnail>
 <fanart>http://i.guim.co.uk/static/w-460/h--/q-95/sys-images/Sport/Pix/pictures/2011/12/7/1323285434111/Sky-Sports-Formula-1-Team-007.jpg</fanart>
 </item>
@@ -58,7 +58,7 @@
 
 <item>
 <title>Sky Sports F1</title>
-<link>rtmp://80.82.64.140:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH</link>
+<link>rtmp://178.18.31.62:443/liverepeater playpath=191293 token=#atd%#$ZH swfUrl=http://bernardotv.club/fuckingcopy.swf live=1 timeout=13 pageUrl=http://biggestplayer.me/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%20F1%20UK.png</thumbnail>
 <fanart>http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2012/3/12/1331562991242/Sky-Sports-F1-002.jpg</fanart>
 </item>
@@ -72,14 +72,14 @@
 
 <item>
 <title>BT Sport 1</title>
-<link></link>
+<link>rtmp://178.18.31.53:443/liverepeater playpath=191806 token=#atd%#$ZH swfUrl=http://bernardotv.club/gofuckyourself.swf live=1 timeout=13 pageUrl=http://biggestplayer.me/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/BT%20Sport%201%20UK.png</thumbnail>
 <fanart>http://static.guim.co.uk/sys-images/Sport/Pix/pictures/2013/8/17/1376765014687/Bt-sport-studio-006.jpg</fanart>
 </item>
 
 <item>
 <title>BT Sport 2</title>
-<link>rtmp://31.220.0.195:80/live/ playpath=btx22 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
+<link>rtmp://178.18.31.61:443/liverepeater playpath=191836 token=#atd%#$ZH swfUrl=http://bernardotv.club/gofuckyourself.swf live=1 timeout=13 pageUrl=http://biggestplayer.me/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/BT%20Sport%202%20UK.png</thumbnail>
 <fanart>http://www.standard.co.uk/incoming/article9799682.ece/alternates/w460/RioBT.jpg</fanart>
 </item>
@@ -121,7 +121,7 @@
 
 <item>
 <title>Eurosport 1</title>
-<link></link>
+<link>rtmp://178.18.31.65:443/liverepeater playpath=191695 token=#atd%#$ZH swfUrl=http://bernardotv.club/fuckingcopy.swf live=1 timeout=13 pageUrl=http://biggestplayer.me/</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Eurosport%201%20UK.png</thumbnail>
 <fanart>http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2013/5/8/1368040118341/Jake-Humphrey--They-re-ta-008.jpg</fanart>
 </item>
@@ -149,7 +149,7 @@
 
 <item>
 <title>MUTV</title>
-<link></link>
+<link>rtmp://31.220.0.195:80/live playpath=mutvr token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://www.reytv.co/</link>
 <thumbnail>http://www.labombonera.com.ar/media/galeria/121/0/1/0/2/n_boca_juniors_manchester_united-2010.jpg</thumbnail>
 <fanart>http://i.huffpost.com/gen/1174108/thumbs/o-MANCHESTER-UNITED-NIKE-KIT-570.jpg?6</fanart>
 </item>
