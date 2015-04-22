@@ -39,6 +39,18 @@
 <channels>
 
 <channel>
+    <name>Malaysia TV</name>
+<thumbnail>http://d1hw6n3yxknhky.cloudfront.net/012305103_prevstill.jpeg</thumbnail>
+<link>http://ignoreme</link>
+<externallink>https://raw.githubusercontent.com/Kybo/Peoples-Mega-List/master/Malaysia</externallink>
+<fanart>http://static6.depositphotos.com/1075749/580/v/950/depositphotos_5803628-Complete-set-of-Flags-of-the-world.jpg</fanart>
+<info></info>
+</channel>
+</channels>
+
+<channels>
+
+<channel>
     <name>French TV</name>
 <thumbnail>http://fc05.deviantart.net/fs70/f/2012/186/c/8/france_flag_by_think0-d563k6e.jpg</thumbnail>
 <link>http://ignoreme</link>
