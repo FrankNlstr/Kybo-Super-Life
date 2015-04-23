@@ -51,7 +51,7 @@
 
 <item>
 <title>Disney Channel</title>
-<link>rtmp://watch1.streamlive.to:1935/edge app=edge/_definst_/?xs=_we_MnRhZzRkemd3b2Y1bWEyfDE0MjkzOTQ2NzB8NS42NC4xMzUuMjEwfDU1MzJkMzg2ZTgxZGF8NWRkOTNhNGZhNDFiMmVhODkzY2FiODEwZThhNzAwMjMyYzkxZjk0OQ.. playpath=2tag4dzgwof5ma2 swfVfy=1 token=u7770372255332d7e19540279142dc11 swfUrl=https://www.streamlive.to/ads/streamlive.swf pageUrl=https://www.streamlive.to live=1 timeout=15</link>
+<link></link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Disney%20Channel%20UK.png</thumbnail>
 <fanart>http://www.livenewschat.eu/wp-content/uploads/2013/04/disney-channel2.jpg</fanart>
 </item>
@@ -86,7 +86,7 @@
 
 <item>
 <title>Tiny Pop</title>
-<link>http://212.70.155.243:40665/udp/237.100.0.182:4000</link>
+<link></link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6e/Tiny_Pop_2011_logo.png</thumbnail>
 <fanart>http://www2.cscmediagroup.com/content/Images/ArticleImages/PromoImage/354.jpg</fanart>
 </item>
