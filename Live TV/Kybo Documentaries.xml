@@ -11,61 +11,68 @@
 <title><COLOR aqua>***Documentaries***</COLOR></title>
 </item>
 
-rtmp://37.48.118.29/live?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDE1IDg6NDM6MzYgQU0maGFzaF92YWx1ZT01VE5HTUNhWFlMcDVJc2lmWE5tT1ZBPT0mdmFsaWRtaW51dGVzPTIw/discoverys.stream
+
 
 
 <item>
-<title>Discovery Channel</title>
-<link></link>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/Discovery%20Channel%20UK.png</thumbnail>
-<fanart>http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245116-720-540.jpg</fanart>
+<title>NASA EDGE</title>
+<ftv>1436</ftv>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/8/89/NE_Logo_Shirt_Design_2008.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/wTvaU24BZMA/maxresdefault.jpg</fanart>
 </item>
 
 <item>
-<title>Discovery Science</title>
-<link></link>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/Discovery%20Science%20UK.png</thumbnail>
-<fanart>http://ehabari.com/wp-content/uploads/2014/09/discovery-responds-to-mythBusters-petition-to-bring-back-kari-byron.jpg</fanart>
+<title>NASA HD</title>
+<ftv>330</ftv>
+<thumbnail>http://www.ubergizmo.com/wp-content/uploads/2011/04/11_nasatv.jpg</thumbnail>
+<fanart>http://www.nasa.gov/externalflash/nasa_iss/images/lt_panel.jpg</fanart>
 </item>
 
 <item>
-<title>History Channel</title>
-<link></link>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/History%20Channel%20UK.png</thumbnail>
-<fanart>http://www.andysowards.com/blog/assets/Afro_Samurai_by_crazy_fox_06.png?b91b38</fanart>
+<title>Make Your Move</title>
+<ftv>3356</ftv>
+<thumbnail>https://i.vimeocdn.com/video/309791894_1280x720.jpg</thumbnail>
+<fanart>http://i3.mirror.co.uk/incoming/article5561596.ece/ALTERNATES/s1023/AvengersMain.jpg</fanart>
 </item>
 
 <item>
-<title>Nat Geo Wild</title>
-<link></link>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/Nat%20Geo%20Wild%20UK.png</thumbnail>
-<fanart>http://fc05.deviantart.net/fs71/f/2014/060/8/4/nat_geo_wild_by_tfg00-d78gpj1.png</fanart>
+<title>Biography TV</title>
+<ftv>2633</ftv>
+<thumbnail>http://j.static-locatetv.com/images/content/4/887887_biography.jpg</thumbnail>
+<fanart>http://cp91279.biography.com/1000509261001/1000509261001_1094056090001_Bio-Need-to-Know-Martin-Luther-King-Jr-SF.jpg</fanart>
 </item>
 
 <item>
-<title>National Geographic Channel</title>
-<link>http://188.227.86.4:4022/udp/239.77.0.41:1234</link>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/National%20Geographic%20Channel%20UK.png</thumbnail>
-<fanart>http://users3.ml.mindenkilapja.hu/users/youtubedolgok/uploads/natgeo.jpg</fanart>
+<title>War Channel</title>
+<ftv>2954</ftv>
+<thumbnail>http://static.filmon.com/couch/channels/805/extra_big_logo.png</thumbnail>
+<fanart>http://webtv.directory/wp-content/uploads/2015/01/war-channel-390x300.jpg</fanart>
 </item>
 
 <item>
-<title>Crime and Investigation</title>
-<link></link>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/Crime%20&%20Investigation%20UK.png</thumbnail>
-<fanart>http://images4.fanpop.com/image/photos/19700000/Crime-investigation-csi-ny-19746771-500-365.jpg</fanart>
+<title>Living History Channel</title>
+<ftv>2710</ftv>
+<thumbnail>http://static.filmon.com/couch/channels/2710/big_logo.png</thumbnail>
+<fanart>http://upload.wikimedia.org/wikipedia/commons/7/71/Channel_Islands_Liberated-_the_End_of_German_Occupation,_Channel_Islands,_UK,_1945_D24595.jpg</fanart>
 </item>
 
 <item>
-<title>Animal Planet</title>
-<link>http://sjc-uhls-vip01.ustream.tv/watch/playlist.m3u8?cid=12762028</link>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/Animal%20Planet%20UK.png</thumbnail>
-<fanart>http://victoriafalls24.com/wp-content/uploads/2013/08/Predators-Playground.jpg</fanart>
+<title>Paranormal TV</title>
+<ftv>1618</ftv>
+<thumbnail>http://static.filmon.com/couch/channels/1618/big_logo.png</thumbnail>
+<fanart>http://www.dtuparanormal.com/Home/imag001.jpg</fanart>
 </item>
 
 <item>
-<title>Travel Channel</title>
-<link></link>
-<thumbnail>http://epg.serbianforum.org/logo_znaci/Travel%20Channel%20UK.png</thumbnail>
-<fanart>http://cdn0.dailydot.com/uploaded/images/original/2012/11/20/Screen_Shot_2012-11-20_at_4.50.30_PM.png</fanart>
+<title>WW2 TeeVee</title>
+<ftv>381</ftv>
+<thumbnail>http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo61-300x180.png</thumbnail>
+<fanart>http://pragmaticobotsunite.com/wp-content/uploads/2013/05/african-americans-wwii-179-1024x767.jpg</fanart>
+</item>
+
+<item>
+<title>BizTV</title>
+<ftv>343</ftv>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000731557872/b40ec439d6f99c1c70530d48809a3883_400x400.jpeg</thumbnail>
+<fanart>http://tv.pervii.com/image/4431_4.jpg</fanart>
 </item>
