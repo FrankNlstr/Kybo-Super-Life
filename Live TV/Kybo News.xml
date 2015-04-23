@@ -30,7 +30,7 @@
 
 <item>
 <title>Al Jazeera News</title>
-<link>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8</link>
+<ftv>4</ftv>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Al%20Jazeera.png</thumbnail>
 <fanart>http://www.aljazeera.com/mritems/imagecache/mbdxxlarge/mritems/Images/2015/1/29/01630e22e0f3438fb5c23cccd2ea14fa_18.jpg</fanart>
 </item>
@@ -42,4 +42,30 @@
 <fanart>http://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2014/11/10/102169105-458719612.1910x1000.jpg</fanart>
 </item>
 
+<item>
+<title>Bloomberg</title>
+<ftv>81</ftv>
+<thumbnail>http://2012.jsconf.eu/images/sponsor-logos/bloomberg.jpg</thumbnail>
+<fanart>http://i2.cdn.turner.com/cnn/2012/images/09/12/t1larg.bloomberg.september12.jpg</fanart>
+</item>
 
+<item>
+<title>CCTV News</title>
+<ftv>1675</ftv>
+<thumbnail>http://static.tumblr.com/5b3ff40aae4922772ba62e5297f511fc/wqw81x7/DNammd44a/tumblr_static_logo.jpg</thumbnail>
+<fanart>https://chovanec.files.wordpress.com/2011/04/dialogue_g20.jpg</fanart>
+</item>
+
+<item>
+<title>Euronews</title>
+<ftv>1672</ftv>
+<thumbnail>http://www.thematv.com/medias/channels/euronews/euronews-logo.jpg</thumbnail>
+<fanart>http://www.panoramaaudiovisual.com/wp-content/uploads/2014/07/Euronews-sede.jpg</fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
