@@ -21,7 +21,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Nursery Rhymes</title>
-<link>plugin://plugin.video.youtube/play/?video_id=HP-MbfHFUqs/?video_id=HP-1UzBCRt7fdQ</link>
+<utube>MbfHFUqs</utube>
 <thumbnail>http://resources.hwb.wales.gov.uk/VTC/nursery_rhymes/eng/Introduction/nursery_rhymes.gif</thumbnail>
 <fanart>http://www.asquithnannies.co.uk/blog/wp-content/uploads/2014/11/nursery_rhymes.jpg</fanart>
 <info></info>
@@ -30,7 +30,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Nursery Rhymes 2</title>
-<link>plugin://plugin.video.youtube/play/?video_id=RkE6YNfl3do</link>
+<utube>RkE6YNfl3do</utube>
 <thumbnail>http://resources.hwb.wales.gov.uk/VTC/nursery_rhymes/eng/Introduction/nursery_rhymes.gif</thumbnail>
 <fanart>http://www.funlinksdaily.com/wp-content/uploads/2011/12/NurseryRhymesMotherGoose1.jpg</fanart>
 <info></info>
@@ -39,7 +39,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Baby TV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=whlv-C3LO3A</link>
+<utube>whlv-C3LO3A</utube>
 <thumbnail>http://www.talkmum.com/wp-content/uploads/2014/07/BabyTV-Logo-with-Cloud+R-2-300x255.png</thumbnail>
 <fanart>http://mla-s1-p.mlstatic.com/4106-MLA2784482287_062012-F.jpg</fanart>
 <info></info>
@@ -48,7 +48,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>ChuChu TV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=qVx6SFRfsLg</link>
+<utube>qVx6SFRfsLg_id=hSqBJw4SUaI</utube>
 <thumbnail>http://mychuchu.com/wp-content/uploads/2015/02/chuchu_new_logo.png</thumbnail>
 <fanart>http://i.ytimg.com/vi/6VjmKnFlJm0/maxresdefault.jpg</fanart>
 <info>http://www.toonpool.com/user/10602/files/hey_diddle_diddle_902125.jpg</info>
