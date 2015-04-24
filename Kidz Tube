@@ -48,7 +48,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>ChuChu TV</title>
-<utube>qVx6SFRfsLg_id=hSqBJw4SUaI</utube>
+<utube>qVx6SFRfsLg</utube>
 <thumbnail>http://mychuchu.com/wp-content/uploads/2015/02/chuchu_new_logo.png</thumbnail>
 <fanart>http://i.ytimg.com/vi/6VjmKnFlJm0/maxresdefault.jpg</fanart>
 <info>http://www.toonpool.com/user/10602/files/hey_diddle_diddle_902125.jpg</info>
@@ -57,7 +57,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Morphle TV</title>
-<link>plugin://plugin.video.youtube/play/?video_id=hSqBJw4SUaI</link>
+<utube>hSqBJw4SUaI</utube>
 <thumbnail>https://yt3.ggpht.com/-VBqDCWsdb9Q/AAAAAAAAAAI/AAAAAAAAAAA/o57M8TV6Kjo/s900-c-k-no/photo.jpg</thumbnail>
 <fanart>http://www.toonpool.com/user/10602/files/hey_diddle_diddle_902125.jpg</fanart>
 <info></info>
@@ -66,7 +66,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>In The Night Garden</title>
-<link>plugin://plugin.video.youtube/play/?video_id=jeYhb8h47CE</link>
+<utube>jeYhb8h47CE</utube>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/7/70/In_the_Night_Garden_logo.png</thumbnail>
 <fanart>http://www.blogcdn.com/www.parentdish.co.uk/media/2013/01/in-the-night-garden-2.jpg</fanart>
 <info></info>
@@ -75,7 +75,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Mr Tumble</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ppHjB9CvtWY</link>
+<utube>ppHjB9CvtWY</utube>
 <thumbnail>http://www.parentingwithouttears.com/custom/%20SOMETHING%20SPECIAL.jpg</thumbnail>
 <fanart>http://img.thesun.co.uk/aidemitlum/archive/01468/Justin-Fletcher-53_1468024a.jpg</fanart>
 <info></info>
@@ -84,7 +84,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Barbie Life in The Dreamhouse</title>
-<link>plugin://plugin.video.youtube/play/?video_id=gGQ-WlsyLMg</link>
+<utube>gGQ-WlsyLMg</utube>
 <thumbnail>http://ecx.images-amazon.com/images/I/51huQ5p22OL._SL500_AA280_.jpg</thumbnail>
 <fanart>http://mediaservice.mirror-image.com/videos/f99feb2fe9805/screenshots/original.jpg</fanart>
 <info></info>
@@ -93,7 +93,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title></title>
-<link></link>
+<utube></utube>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -102,7 +102,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Peppa Pig</title>
-<link>plugin://plugin.video.youtube/play/?video_id=DjJ6J3yAu5A</link>
+<utube>DjJ6J3yAu5A</utube>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/6/61/Peppa_Pig.png</thumbnail>
 <fanart>http://i.kinja-img.com/gawker-media/image/upload/s--cGVIsoS1--/yv1zepblknt8nlo7z6u8.jpg</fanart>
 <info></info>
@@ -111,7 +111,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title></title>
-<link></link>
+<utube></utube>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -120,7 +120,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Gummi Bears</title>
-<link>plugin://plugin.video.youtube/play/?video_id=bhgLoBypReg</link>
+<utube>bhgLoBypReg</utube>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/89/Gummi.jpg</thumbnail>
 <fanart>http://cdnvideo.dolimg.com/cdn_assets/aa675e3bc06e08a909d4defee0429b80d2088e4e.jpg</fanart>
 <info></info>
@@ -129,7 +129,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Super Why</title>
-<link>plugin://plugin.video.youtube/play/?video_id=41xju1RhH-I</link>
+<utube>41xju1RhH-I</utube>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/a/ae/Superwhylogo.jpg</thumbnail>
 <fanart>http://www.cbc.ca/parents/content/imgs/_8col/superWhy.jpg</fanart>
 <info>Four fairytale friends go on magical adventures and become reading-powered superheroes. The characters live in Storybook Village, which is accessible through a panel that is represented by an invisible question mark. Preschool children follow the Super Readers as they jump into books that come to life.</info>
@@ -138,7 +138,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title></title>
-<link></link>
+<utube></utube>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -147,7 +147,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Garfield</title>
-<link>plugin://plugin.video.youtube/play/?video_id=C6fWI3wGs2A</link>
+<utube>C6fWI3wGs2A</utube>
 <thumbnail>http://fc02.deviantart.net/fs71/f/2013/251/0/2/garfield_by_dashie_so_cute-d6ljqxu.png</thumbnail>
 <fanart>http://fc01.deviantart.net/fs70/f/2014/100/3/e/the_evolution_of_garfield_by_santiagofdf-d7dxkuf.png</fanart>
 <info></info>
@@ -156,7 +156,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Paw Patrol</title>
-<link></link>
+<utube></utube>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8f/PAWPatrolLogo.png</thumbnail>
 <fanart>http://i.ytimg.com/vi/NTrf3nwWaw8/maxresdefault.jpg</fanart>
 <info></info>
@@ -165,7 +165,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Hey Arnold!</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ZSU-FFaMpnk</link>
+<utube>ZSU-FFaMpnk</utube>
 <thumbnail>http://www.beliefnet.com/columnists/moviemom/files/2014/08/hey-arnold.jpg</thumbnail>
 <fanart>http://img3.wikia.nocookie.net/__cb20111218234108/creepypasta/images/a/a0/Hey_Arnold_Characters.jpg</fanart>
 <info></info>
@@ -174,7 +174,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Recess</title>
-<link>plugin://plugin.video.youtube/play/?video_id=Ot93ZAh4kYk</link>
+<utube>Ot93ZAh4kYk</utube>
 <thumbnail>http://img2.wikia.nocookie.net/__cb20130703041136/disney/images/5/52/Recess_title.jpg</thumbnail>
 <fanart>http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/shows/banner_817.jpg</fanart>
 <info></info>
@@ -183,7 +183,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Donald Duck & Chip an Dale</title>
-<link>plugin://plugin.video.youtube/play/?video_id=TLHJhLhpRFk</link>
+<utube>TLHJhLhpRFk</utube>
 <thumbnail>http://cartoon-excellence.com/wp-content/uploads/2012/11/Donald-Duck-vs-Chip-n-Dale-Wallpaper-donald-duck.jpg</thumbnail>
 <fanart>http://i.ytimg.com/vi/D_RBXbsAgEw/hqdefault.jpg</fanart>
 <info></info>
@@ -192,7 +192,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Looney Tunes</title>
-<link>plugin://plugin.video.youtube/play/?video_id=TUCO1hjzb9k</link>
+<utube>TUCO1hjzb9k</utube>
 <thumbnail>http://ewallpaperhub.com/wp-content/uploads/2015/02/looney-tunes-pictures.jpg</thumbnail>
 <fanart>http://wallpapers111.com/wp-content/uploads/2014/12/Baby-Looney-Tunes-Wallpapers-Pictures-11.jpg</fanart>
 <info></info>
@@ -233,7 +233,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Mickey & Pluto</title>
-<link>plugin://plugin.video.youtube/play/?video_id=1cEFXQGne7I</link>
+<utube>1cEFXQGne7I</utube>
 <thumbnail>http://ecx.images-amazon.com/images/I/51MVX2SGEVL.jpg</thumbnail>
 <fanart>http://cf067b.medialib.glogster.com/media/20/2095df2e3913046a14fbd3caa4c3630b1c740ec73ac63b442cebeda692dbee3b/mickey-and-pluto-jpg.jpg</fanart>
 <info></info>
@@ -242,7 +242,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Disney Cartoons</title>
-<link>plugin://plugin.video.youtube/play/?video_id=SpSazr3k834</link>
+<utube>SpSazr3k834</utube>
 <thumbnail>http://4.bp.blogspot.com/-ER38XFhs2_M/T9ZRkTwfgdI/AAAAAAAAGyg/lKwsrg74PxI/s1600/Walt_Disney_Animation_Studios_logo.png</thumbnail>
 <fanart>http://coolwallpaperz.info/user-content/uploads/wall/o/93/disney-cartoons-retro-cartoon-220778.jpg</fanart>
 <info></info>
@@ -251,7 +251,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>DISNEY'S CLASSICS</title>
-<link>plugin://plugin.video.youtube/play/?video_id=iKOvVj26mY4</link>
+<utube>iKOvVj26mY4</utube>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20110729111811/disney/images/2/26/Walt_Disney_Classics_(DVD_Quality).png</thumbnail>
 <fanart>http://fc08.deviantart.net/fs71/i/2011/351/0/f/disney_classics_by_erodriguez199698-d4jdr1x.png</fanart>
 <info></info>
@@ -260,7 +260,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title></title>
-<link></link>
+<utube></utube>
 <thumbnail></thumbnail>
 <fanart></fanart>
 <info></info>
@@ -269,7 +269,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Mr Bean</title>
-<link>plugin://plugin.video.youtube/play/?video_id=fSHDvOdCGAY</link>
+<utube>fSHDvOdCGAY</utube>
 <thumbnail>https://i.ytimg.com/i/57s1QPlQnOplUKv1fGdNpA/mq1.jpg?v=5197c70f</thumbnail>
 <fanart>http://mrbean-website-cache.s3.amazonaws.com/wp-content/uploads/2014/03/New-Series_Turner-Press-release.jpg</fanart>
 <info></info>
@@ -278,7 +278,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Popeye</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PxCbvUUZlqU</link>
+<utube>PxCbvUUZlqU</utube>
 <thumbnail>http://www.deafmotorcyclelinks.com/dba/2011kentuckybikefest/popeye.gif</thumbnail>
 <fanart>http://blogs.band.com.br/kids/files/2013/04/POPEYE-3.jpg</fanart>
 <info></info>
@@ -287,7 +287,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Iron Man</title>
-<link>plugin://plugin.video.youtube/play/?video_id=7iD-VCEh9tw</link>
+<utube>7iD-VCEh9tw</utube>
 <thumbnail>http://i.annihil.us/u/prod/marvel/i/mg/1/03/516c606b41536/portrait_incredible.jpg</thumbnail>
 <fanart>http://goodcomics.comicbookresources.com/wp-content/uploads/2013/04/ironmangreatestdisplay.jpg</fanart>
 <info></info>
@@ -296,7 +296,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>X-Men</title>
-<link></link>
+<utube></utube>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20100101192321/marveldatabase/images/6/6c/X-Men_Vol_2_11.jpg</thumbnail>
 <fanart>http://schmoesknow.com/wp-content/uploads/2015/01/infographic-crazy-x-men-movie-timeline.jpeg</fanart>
 <info></info>
@@ -305,7 +305,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>The Increbidle Hulk</title>
-<link></link>
+<utube></utube>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6f/22_1996_The_Incredible_Hulk_Season_1_Title.jpg</thumbnail>
 <fanart>http://cdn.collider.com/wp-content/uploads/the-incredible-hulk.jpg</fanart>
 <info></info>
@@ -314,7 +314,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Spiderman</title>
-<link></link>
+<utube></utube>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20140601103230/marvel/es/images/2/26/Spider-Man_(videojuego_2000)_cover_art.jpg</thumbnail>
 <fanart>http://img3.wikia.nocookie.net/__cb20140530091211/spiderman/images/7/70/Wikia-Visualization-Main,spiderman.png</fanart>
 <info></info>
@@ -323,7 +323,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>SuperMan</title>
-<link>plugin://plugin.video.youtube/play/?video_id=6xDcG79l7Rg</link>
+<utube>6xDcG79l7Rg</utube>
 <thumbnail>http://static.tumblr.com/2ihx1rl/8fMmc9dz8/image__22__copy.jpg</thumbnail>
 <fanart>http://static.comicvine.com/uploads/original/10/104700/4450945-superman+1.jpeg</fanart>
 <info></info>
@@ -332,7 +332,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>He-Man & She-Ra the Movie</title>
-<link>plugin://plugin.video.youtube/play/?video_id=WiRPtHvdfoY</link>
+<utube>WiRPtHvdfoY</utube>
 <thumbnail>http://www.bustatoons.com/blog_images/blog_memories_12.jpg</thumbnail>
 <fanart>http://image.tmdb.org/t/p/w1280/xqTB0JXjmMmSf67JvheOa9VFOQE.jpg</fanart>
 <info></info>
@@ -341,7 +341,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Teenage Mutant Ninja Turtles</title>
-<link></link>
+<utube></utube>
 <thumbnail>http://static.deathandtaxesmag.com/uploads/2012/03/TMNT-Bay.jpg</thumbnail>
 <fanart>http://static.comicvine.com/uploads/original/7/74209/3014649-cast-of-teenage-mutant-ninja-turtles-5.jpg</fanart>
 <info></info>
@@ -350,7 +350,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Biker mice from mars</title>
-<link>plugin://plugin.video.youtube/play/?video_id=LCLAkf8y8L0</link>
+<utube>LCLAkf8y8L0</utube>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/0/00/Biker_Mice_from_Mars_logo.jpg</thumbnail>
 <fanart>http://www.pocandpoch.com/wp-content/gallery/biker-mice-from-mars/biker-mice-from-mars-2006.jpg</fanart>
 <info></info>
@@ -359,11 +359,11 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Victorious Live Music</title>
-<link>plugin://plugin.video.youtube/play/?video_id=csbcTp1e04g&index=50&list=PLkh4al2dRnnL8-wMcgc_83Juh_W9fsDpg</link>
+<utube>83Juh_W9fsDpg</utube>
 <thumbnail>http://images4.fanpop.com/image/photos/22300000/Victorious-victorious-22306361-1280-1024.jpg</thumbnail>
 <fanart>http://www.allthetests.com/quiz29/picture/pic_1312128629_2.jpg</fanart>
 <info></info>
 </item>
 
 
-ntents here
+
