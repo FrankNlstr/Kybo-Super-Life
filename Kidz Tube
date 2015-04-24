@@ -6,7 +6,6 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <info>
 <message>[COLOR red]Kidz Tube XML[/COLOR]</message>
-<thumbnail>https://sites.google.com/site/bagofinest2/home/addtext_com_MDExNzA3OTAyNQ.jpg</thumbnail>
 </info>
 
 
@@ -93,10 +92,10 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
 <item>
-<title>Doc McStuffins</title>
-<link>plugin://plugin.video.youtube/play/?video_id=PJZtZbnx1U0</link>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/1/15/Doc_McStuffins_logo.png</thumbnail>
-<fanart>http://i.ytimg.com/vi/gt-_qwDAfkg/maxresdefault.jpg</fanart>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info></info>
 </item>
 
@@ -111,10 +110,10 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
 <item>
-<title>My Little Pony Friendship Is Magic</title>
-<link>plugin://plugin.video.youtube/play/?video_id=j-XDSwvn_lU</link>
-<thumbnail>http://fc06.deviantart.net/fs71/i/2012/325/1/1/my_little_pony__friendship_is_magic___villains_by_deltaraen-d5llv8u.jpg</thumbnail>
-<fanart>http://img.photobucket.com/albums/v260/Katganistan/everyone-together-my-little-pony-friendship-is-magic-29790647-813-606.jpg</fanart>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info></info>
 </item>
 
@@ -138,10 +137,10 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
 <item>
-<title>Total Drama Island</title>
-<link>plugin://plugin.video.youtube/play/?video_id=vg2PZcjoEOY&feature=youtu.be</link>
-<thumbnail>http://2.bp.blogspot.com/_MedalgOzQ-U/SeUYwUu9uUI/AAAAAAAAAHs/2enLwLUSBIU/s320/LOGO+TOTAL+DRAMA+ISLAND.jpg</thumbnail>
-<fanart>http://upload.wikimedia.org/wikipedia/en/b/bf/TDCast1.png</fanart>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info></info>
 </item>
 
@@ -157,7 +156,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Paw Patrol</title>
-<link>plugin://plugin.video.youtube/play/?video_id=BHsyjvD8-yc</link>
+<link></link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/8/8f/PAWPatrolLogo.png</thumbnail>
 <fanart>http://i.ytimg.com/vi/NTrf3nwWaw8/maxresdefault.jpg</fanart>
 <info></info>
@@ -201,11 +200,11 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
 <item>
-<title>Mickey Mouse Clubhouse 1</title>
-<utube>6mg376D3e94</utube>
-<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/7/78/Mickey_Mouse_Clubhouse_logo.svg/220px-Mickey_Mouse_Clubhouse_logo.svg.png</thumbnail>
-<fanart>http://images.social-first.net/files/chaoticfeed/5823-puzzle-mickey-mouse-club-house-100-piezas_1920x1080.jpg</fanart>
-<info>1 of 4</info>
+<title></title>
+<utube></utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
 </item>
 
 <item>
@@ -260,10 +259,10 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 
 <item>
-<title>DISNEY'S CLASSICS 2</title>
-<link>plugin://plugin.video.youtube/play/?video_id=ImfXXzZM7xM</link>
-<thumbnail>http://img1.wikia.nocookie.net/__cb20110119034859/disney/images/b/b7/Walt_Disney_Mini-Classics_1987.jpg</thumbnail>
-<fanart>https://caua1000.files.wordpress.com/2012/03/waltdisneywallpaper21024.jpg</fanart>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
 <info></info>
 </item>
 
@@ -297,7 +296,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>X-Men</title>
-<link>plugin://plugin.video.youtube/play/?video_id=b7dT9d96Guo</link>
+<link></link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20100101192321/marveldatabase/images/6/6c/X-Men_Vol_2_11.jpg</thumbnail>
 <fanart>http://schmoesknow.com/wp-content/uploads/2015/01/infographic-crazy-x-men-movie-timeline.jpeg</fanart>
 <info></info>
@@ -306,7 +305,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>The Increbidle Hulk</title>
-<link>plugin://plugin.video.youtube/play/?video_id=uewEc4iG_8g</link>
+<link></link>
 <thumbnail>http://upload.wikimedia.org/wikipedia/en/6/6f/22_1996_The_Incredible_Hulk_Season_1_Title.jpg</thumbnail>
 <fanart>http://cdn.collider.com/wp-content/uploads/the-incredible-hulk.jpg</fanart>
 <info></info>
@@ -315,7 +314,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Spiderman</title>
-<link>plugin://plugin.video.youtube/play/?video_id=X-64MxKNASQ</link>
+<link></link>
 <thumbnail>http://img4.wikia.nocookie.net/__cb20140601103230/marvel/es/images/2/26/Spider-Man_(videojuego_2000)_cover_art.jpg</thumbnail>
 <fanart>http://img3.wikia.nocookie.net/__cb20140530091211/spiderman/images/7/70/Wikia-Visualization-Main,spiderman.png</fanart>
 <info></info>
@@ -342,7 +341,7 @@ Enter file co<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <item>
 <title>Teenage Mutant Ninja Turtles</title>
-<link>plugin://plugin.video.youtube/play/?video_id=mGXmjiBS1Jc</link>
+<link></link>
 <thumbnail>http://static.deathandtaxesmag.com/uploads/2012/03/TMNT-Bay.jpg</thumbnail>
 <fanart>http://static.comicvine.com/uploads/original/7/74209/3014649-cast-of-teenage-mutant-ninja-turtles-5.jpg</fanart>
 <info></info>
