@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+
+<info>
+<message>[COLOR red]Kidz centurions  XML[/COLOR]</message>
+</info>
+
+
+
+<item>
+<title>Episode 1</title>
+<utube>GvXFoLAmI6E</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<utube>_JXFvwEAm00</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<utube>2pIjiWG6v2k</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<utube>fkMw-UQkkSE</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 5</title>
+<utube>NWzaIb3xzTA</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<utube>U-fdunKgLbc</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 7</title>
+<utube>FKU3LEXqjtc</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 8</title>
+<utube>MTdXJB1bxCM</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 9</title>
+<utube>q-KbNUbKPx0</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 10</title>
+<utube>jznlrDboJjI</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 11</title>
+<utube>JiWMo-3kjZ0</utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.80retro.co.uk/images/centurions/logo.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/TEZWH2VXglM/maxresdefault.jpg</fanart>
+</item>

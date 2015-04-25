@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+
+<info>
+<message>[COLOR red]Kidz Babys XML[/COLOR]</message>
+</info>
+
+
+
+<item>
+<title>TuTiTu Most Popular Toys</title>
+<utube>1UzBCRt7fdQ</utube>
+<thumbnail>http://s2.dmcdn.net/IxEMF/1280x720-sAX.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/YtGxzlwRgeM/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Nursery Rhymes</title>
+<utube>MbfHFUqs</utube>
+<thumbnail>http://resources.hwb.wales.gov.uk/VTC/nursery_rhymes/eng/Introduction/nursery_rhymes.gif</thumbnail>
+<fanart>http://www.asquithnannies.co.uk/blog/wp-content/uploads/2014/11/nursery_rhymes.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>Nursery Rhymes 2</title>
+<utube>RkE6YNfl3do</utube>
+<thumbnail>http://resources.hwb.wales.gov.uk/VTC/nursery_rhymes/eng/Introduction/nursery_rhymes.gif</thumbnail>
+<fanart>http://www.funlinksdaily.com/wp-content/uploads/2011/12/NurseryRhymesMotherGoose1.jpg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>ChuChu TV</title>
+<utube>qVx6SFRfsLg</utube>
+<thumbnail>http://mychuchu.com/wp-content/uploads/2015/02/chuchu_new_logo.png</thumbnail>
+<fanart>http://i.ytimg.com/vi/6VjmKnFlJm0/maxresdefault.jpg</fanart>
+<info>http://www.toonpool.com/user/10602/files/hey_diddle_diddle_902125.jpg</info>
+</item>
+
+<item>
+<title>Morphle TV</title>
+<utube>hSqBJw4SUaI</utube>
+<thumbnail>https://yt3.ggpht.com/-VBqDCWsdb9Q/AAAAAAAAAAI/AAAAAAAAAAA/o57M8TV6Kjo/s900-c-k-no/photo.jpg</thumbnail>
+<fanart>http://www.toonpool.com/user/10602/files/hey_diddle_diddle_902125.jpg</fanart>
+<info></info>
+</item>
+
+
+

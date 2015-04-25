@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+
+<info>
+<message>[COLOR red]Kidz Visionaries: Knights of the Magical Light  XML[/COLOR]</message>
+</info>
+
+
+
+<item>
+<title>Episode 1</title>
+<utube>dd9YBbmTIm0</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<utube>iI2smtNbVSE</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<utube>wXUwn6rGZZs</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<utube>TJCaj4a0LY8</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>4
+
+<item>
+<title>Episode 5</title>
+<utube>QyEbIX0bvI0</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<utube>YaiuzYN009w</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 7</title>
+<utube>fBoGzK6PO50</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 8</title>
+<utube>yoyv6LRUGEU</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 9</title>
+<utube>u7YEiKMeerw</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>4
+
+<item>
+<title>Episode 10</title>
+<utube>xXDI1l0Y3G4</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 11</title>
+<utube>0Bp2EK4GKPI</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 12</title>
+<utube>UIGz5tXjCuE</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 13</title>
+<utube>c4oviOQdZ0g</utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>4
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>4
+
+<item>
+<title>Episode </title>
+<utube></utube>
+<thumbnail>http://www.rockethideout.com/articles/images/visionaries/v0.png</thumbnail>
+<fanart>https://ssl-static.libsyn.com/p/assets/2/8/b/2/28b25a4df4907c2e/site.jpg</fanart>
+</item>

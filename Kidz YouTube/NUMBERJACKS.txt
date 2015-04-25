@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+
+<info>
+<message>[COLOR red]Kidz NUMBERJACKS XML[/COLOR]</message>
+</info>
+
+
+
+<item>
+<title>Xtra Long Episodes 1 Hour</title>
+<utube>xOHwzVlYsN0</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 1</title>
+<utube>z6PbD1xwYgo</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 2</title>
+<utube>K4x1wlotH0s</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 3</title>
+<utube>K4x1wlotH0s</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 4</title>
+<utube>d1HmtpchwVc</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 5</title>
+<utube>b80iovseN-4</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 6</title>
+<utube>Gg48HbJe-qw</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 7</title>
+<utube>PSFjMzS0rNc</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 8</title>
+<utube>G82ulWzS3Nc</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 9</title>
+<utube>sNJgvlImw-A</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 10</title>
+<utube>7NIB7Zcj0D8</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 11</title>
+<utube>bAx9iQZVuO4</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 12</title>
+<utube>7NIB7Zcj0D8</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 13</title>
+<utube>Ead2aYoLxDU</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 14</title>
+<utube>G82ulWzS3Nc</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode 15</title>
+<utube>tyDO2ZMyZo</utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode</title>
+<utube></utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode</title>
+<utube></utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode</title>
+<utube></utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode</title>
+<utube></utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode</title>
+<utube></utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode</title>
+<utube></utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode</title>
+<utube></utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode</title>
+<utube></utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
+
+<item>
+<title>Episode</title>
+<utube></utube>
+<thumbnail>http://www.haverigg.cumbria.sch.uk/images/library/Logos/numberjacks_logo.gif</thumbnail>
+<fanart>http://www.mercurytheatre.co.uk/files/images/applicationfiles/22.2127.Numberjacksimageonly/800x600.fitdown.jpg</fanart>
+</item>
