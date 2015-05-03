@@ -23,7 +23,7 @@
 
 <item>
 <title>Sky Sports 1</title>
-<link>rtmp://93.158.217.202:80/live/ playpath=s1111132 token=%Zrey(nKa@#Z swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://reytv.co/</link>
+<link>rtmp://142.4.216.205/live/ch4 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://rarehost.net/amember/vip/4.php live=true timeout=20 token=WY846p1E1g15W7s</link>
 <thumbnail>http://epg.serbianforum.org/logo_znaci/Sky%20Sports%201%20UK.png</thumbnail>
 <fanart>http://static.guim.co.uk/sys-images/Guardian/Pix/GU_front_gifs/2013/5/10/1368215391695/British-No-1-Heather-Wats-011.jpg</fanart>
 </item>
