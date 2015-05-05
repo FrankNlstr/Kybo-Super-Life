@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+
+
+<info>
+<message>[COLOR red]Under Maintenance XML[/COLOR]</message>
+</info>
+
+
+
+<item>
+<title>Under Maintenance</title>
+<link>http://ignoreme</link>
+<thumbnail>http://www.namis.gov.np/images/um.png</thumbnail>
+<fanart>http://www.opex-forum.com/opexforum/underMaintenance.jpg</fanart>
+<info></info>
+</item>
